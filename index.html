@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset='utf8'>
+  <script>
+    document.addEventListener('DOMContentLoaded',function() {
+      var txt = document.getElementById('txt');
+      var btn = document.getElementById('btn');
+      var res = document.getElementById('res');
+      btn.addEventListener('click',function() {
+        var lst = [];
+        var txts = txt.value.split('\n');
+        for(var i = 0; i < txts.length; ++i) {
+          var label = txts[i];
+          if(!label) continue;
+
+          while(++i < txts.length) {
+            if(!/[^\s]+/.test(txts[i])) break;
+            var ads = txts[i].split(' ');
+            for(var j = 0; j < ads.length; ++j)
+              lst.push([label,ads[j]]);
+          }
+        }
+        lst.sort(function(a,b){
+          var x = a[1].split('-');
+          var y = b[1].split('-');
+          var m = Math.min(x.length,y.length);
+          for(var i = 0; i < m; ++i) {
+            if(x[i] == y[i]) continue;
+            var xv = parseInt(x[i]);
+            var yv = parseInt(y[i]);
+            if(xv && yv)
+              return xv < yv ? -1 : 1;
+            return x[i] < y[i] ? -1 : 1;
+          }
+          return x.length < y.length ? -1 : 1;
+        });
+
+        var st = 0 , tbl = '';
+        for(var i = 1; i < lst.length + 1; ++i) {
+          if(i == lst.length || lst[st][0] != lst[i][0]) {
+            if(i - st < 2)
+              tbl += '<tr><td>' + lst[st][1] + '</td><td></td><td>' + lst[st][0] + '</td></tr>';
+            else
+              tbl += '<tr><td>' + lst[st][1] + '</td><td>' + lst[i-1][1] + '</td><td>' + lst[st][0] + '</td></tr>';
+            st = i;
+          }
+        }
+        res.innerHTML = tbl;
+      });
+    });
+  </script>
+  <style>
+    #txt {
+      width: 480px;
+      height: 320px;
+    }
+    table {
+      width: 240px;
+      margin: 20px;
+      border-collapse: collapse;
+    }
+  </style>
+</head>
+  <textarea id='txt'>
+11
+401 403
+
+12
+104
+
+13
+202 201 214 213 212 211 710 709 708 707 706-1 706-2
+
+14
+705 704 702 701 208 207 206 205 204 203
+
+15
+301 312 309 308 307 306 408 407 406 405 404
+  </textarea>
+  <button id='btn'>submit</button>
+  <div>
+    <table id='res' border=1>
+    </table>
+  </div>
+</html>
