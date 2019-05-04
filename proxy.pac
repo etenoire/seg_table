@@ -1,5 +1,6 @@
 function FindProxyForURL(url,host) {
   if(
+   shExpMatch(host,"api.dmc.nico") ||
    shExpMatch(host,"googleadservices.com") ||
    shExpMatch(host,"pagead2.googlesyndication.com") ||
    shExpMatch(host,"exosrv.com") ||
