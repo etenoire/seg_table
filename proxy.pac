@@ -1,1164 +1,1161 @@
 function FindProxyForURL(url,host) {
   if(
-  
-googleadservices.com
-pagead2.googlesyndication.com
-exosrv.com
-omtrdc.net
-coremetrics.com
-100651.advision-adnw.jp
-2.chmato.me
-2mdn.info
-4clvr.jp
-a-c-engine.com
-a-cast.jp
-a.cookpad-ads.com
-a1.goo.ne.jp
-aaaf.jp
-aaddcount.com
-aag.yahooapis.jp
-accessup.goldcows.com
-act.ameba.jp
-ad-alp.net
-ad-analyze.jp
-ad-api-v01.uliza.jp
-ad-arata.com
-ad-arata.s3.amazonaws.com
-ad-bemti.com
-ad-brix.com
-ad-cloud.jp
-ad-count.jp
-ad-feed.com
-ad-hatena.com
-ad-house.mobi
-ad-image.val.jp
-ad-info.val.jp
-ad-link.jp
-ad-lista.com
-ad-m.asia
-ad-miner.com
-ad-move.jp
-ad-seek.jp
-ad-shot.com
-ad-sp.biz
-ad-srv.co
-ad-stir.com
-ad-trip.com
-ad-v.jp
-ad-vanx.com
-ad.adsrvr.org
-ad.affipa.ne.jp
-ad.agilemedia.jp
-ad.angel-live.com
-ad.api.fello.net
-ad.atdmt.com
-ad.auditude.com
-ad.axyzconductor.jp
-ad.brainer.jp
-ad.cq-andc.jp
-ad.dlbooks.to
-ad.dmm.com
-ad.douga-kan.com
-ad.dropbooks.tv
-ad.duga.jp
-ad.goo.ne.jp
-ad.goodad.jp
-ad.gunosy.com
-ad.hatena.ne.jp
-ad.heypo.com
-ad.impressbm.co.jp
-ad.internetcom.jp
-ad.jorudan.co.jp
-ad.jp.ap.valuecommerce.com
-ad.mediba.jp
-ad.mobadme.jp
-ad.netowl.jp
-ad.pitta.ne.jp
-ad.plus-a.net
-ad.response.jp
-ad.somewrite.jp
-ad.sp.mbga.jp
-ad.val.jp
-ad.valuecommerce.com
-ad.webdice.jp
-ad.wiredvision.jp
-ad.xdomain.ne.jp
-ad2.fm-p.jp
-ad2.maho.jp
-adap.tv
-adapf.com
-adapi.gunosy.com
-adb.nikkei.co.jp
-adcdn.goo.ne.jp
-adck.crooz.jp
-adcloud.jp
-adclr.jp
-adcolony.com
-adcrops.net
-adcv.jp
-addelivery.seedapp.jp
-addeluxe.jp
-adf.shinobi.jp
-adflare.bz
-adflare.jp
-adforest.net
-adfurikun.jp
-adglare.net
-adgrip.net
-adimg.net
-adimp.excite.co.jp
-adingo.jp
-adingo.jp.eimg.jp
-adinte.jp
-adjust-net.jp
-adjust-sp.jp
-adk2x.com
-adlantis.jp
-adlib.cptv.jp 
-adlpo.com
-adm.fwmrm.net
-adm.shinobi.jp
-admeme.net
-adminer.com
-adming.net
-admtpmp123.com
-admtpmp124.com
-adnetworkperformance.com
-adnico.jp
-adntokyo.gunosy.com
-adnwif.smt.docomo.ne.jp
-adnxs.com
-adone.yicha.jp
-adpdx.com
-adpix.jp
-adplan-ds.com
-adplatform.jp
-adpon.net
-adpresso.valuecommerce.com
-adpriv.nikkei.com
-adrcf.com
-adresult-sp.jp
-adresult.jp
-adroll.com
-ads-api.hackadoll.com
-ads-i2i.jp
-ads-tool.jp
-ads-twitter.com
-ads.doko.jp
-ads.gold
-ads.heyzap.com
-ads.mediasmart.es
-ads.mixi.jp
-ads.mopub.com
-ads.nexage.com
-ads.nikkeibp.co.jp
-ads.pubmatic.com
-ads1.jp.msn.com
-ads1.msads.net
-ads2-adnow.com
-ads280dummy.com
-adsee.jp
-adsensecustomsearchads.com
-adservice.google.com
-adsk2.co
-adsnative.com
-adstore.jp
-adtc.daum.net
-adtdp.com
-adtech.de
-adtechjp.com
-adticker.net
-adtilt.com
-adtrack.king.com
-adtracker.jp
-adultmild.com
-adultsuns.net
-adv.mobsmart.net
-advertising.com
-advertising.jp.msn.com
-advisionclick.yicha.jp
-advisionweb.yicha.jp
-advisionwebp.yicha.jp
-advnet.xyz
-advpic.yicha.jp
-adxpansion.com
-adxxx.org
-adzerk.net
-af-110.com
-af.moshimo.com
-aff.jskyservices.com
-affil.jp
-affiliate.dtiserv.com
-affiliate.rakuten.co.jp
-affiliateone.jp
-afte.mopo.jp
-aid-ad.jp
-aimg.fc2.com
-aja-recommend.com
-aka-uae-dl.uliza.jp
-alogs.umengcloud.com
-aml.valuecommerce.com
-amoad.com
-analytics.cocolog-nifty.com
-analytics.qlook.net
-analyzer54.fc2.com
-analyzer55.fc2.com
-android.giveapp.jp
-antennash.com
-aos-creative.prf.hn
-api-05.com
-api.appsflyer.com
-api.cho-ro.club
-api.gameanalytics.com
-api.inwemo.com
-api.primecaster.net
-api.uca.cloud.unity3d.com
-api.webpush.jp
-aplkp.valuecommerce.com
-app-c.net
-app-measurement.com
-app.adjust.com
-appad.click
-appad02.mbsp.jp
-appier.mobi
-applipromotion.com
-appnext-a.akamaihd.net
-appnext.com
-appnext.hs.llnwd.net
-appsdt.com
-apserver.net
-apvdr.com
-aqua.dmm.co.jp
-ard.gree.net
-aspm.jp
-assys01.fc2.com
-astrsk.net
-atech.ne.jp
-atwola.com
-authedmine.com
-avalon-ad.net
-avdm.mobi
-axia-hakusan.com
-azvjudwr.info
-b.grvcdn.com
-b.smartnews.be
-b92.yahoo.co.jp
-b97.yahoo.co.jp
-ba.afl.rakuten.co.jp
-banner.blogranking.net
-bc.geocities.yahoo.co.jp
-bc-geocities.yahoo.co.jp
-bc.atleit.com
-bead-ad.com
-bibincom.com
-bidswitch.net
-bizad.nikkeibp.co.jp
-black-diamond.asia
-blog-livedorr.com
-blog.alivedoors.com
-blogranking.fc2.com
-blogroll.click
-blogroll.livedoor.net
-bluekai.com
-bongacams.com
-bootstrapcdn.jdorfman.netdna-cdn.com
-boxadstop.com
-brandscreen.biz
-broadstreetads.com
-btstatic.com
-bufferapp.com
-bvezznurwekr.com
-bypass.jp
-c1exchange.com
-ca-conv.jp
-caprofitx.adtop.com
-caprofitx.com
-cdn-guile.akamaized.net
-cdn.ad1-click.com
-cdn.alistcloud.com
-cdn.cloudcoins.co
-cdn.pic.crooz.jp
-cdn.taboolasyndication.com
-cdn.treasuredata.com
-cdn.z-profit.com
-cdns.lodeo.io
-cint.com
-click-plus.net
-click.adv.livedoor.com
-click.duga.jp
-clickadu.com
-clksite.com
-cloudmobi.net
-cnhv.co
-cnt.affiliate.fc2.com
-cocoad.jp
-coin-have.com
-coin-hive.com
-coinblind.com
-coinerra.com
-coinhive.com
-coinhiveproxy.com
-coinlab.biz
-coinnebula.com
-comic-promotion.com
-cosmi.io
-count-ad.net
-counter.yadro.ru
-cpmly.com
-crashlytics.com
-creativecarrer.com
-crispadvertising.com
-criteo.com
-criteo.net
-crypto-loot.com
-cs.r-ad.ne.jp
-csi.gstatic.com
-ct2.shinobi.jp
-cube.jpn.com
-cyberwing.co.jp
-d.5.to
-d.pixiv.org
-d.somewrite.jp
-d1miuq6afqay8u.cloudfront.net
-d28nwox1gdjlve.cloudfront.net
-d2c.ne.jp
-deliver.ads2.iid.jp
-delivery.locari.jp
-directlink.jp
-directrev.com
-disqusads.com
-dlp4luwpus5kr.cloudfront.net
-dlv.itmedia.jp
-doga.cm
-dominoad.com
-doprads.jp
-dot-metrix.com
-doubleclick.com
-doubleclick.net
-dtscout.com
-dynalyst.jp
-eco-tag.jp
-emailretargeting.com
-emp.aiasahi.jp
-ero-advertising.com
-etc.atja.jp
-events.appsflyer.com
-exaf.jp
-exit-ad.com
-exoclick.com
-eyeota.net
-fam-ad.com
-fam-movie.com
-fancrew.jp
-feed.mikle.com
-fine-tv.net
-fivecdm.com
-fluct.jp
-flurry.com
-focas.jp
-for-ward.jp
-fout.jp
-fractionalmedia.com
-free-video-movie.com
-free2.jp
-fsitel.com
-gamefeat.net
-garss.tv
-gds786bomyc.com
-geniee.jp
-genieedmp.com
-genieesspv.jp
-gigazine.asia
-glam.com
-global.msmtrakk06d.com
-glossom.co.jp
-glossom.jp
-glssp.jp
-glssp.net
-gmossp-sp.jp
-go.ad1data.com
-go.megabanners.cf
-goodlifess.jp
-gravity.com
-gsspat.jp
-gsspcln.jp
-gssprt.jp
-guile.jp
-hihumi.biz
-hilltopads.net
-histats.com
-hitgraph.jp
-housead.xofapp.xyz
-href.asia
-i-generation.jp
-i-mobile.co.jp
-i.atleit.com
-i.image-ad.jp
-i.tapit.com
-i2ad.jp
-i2i.com
-i2i.jp
-i2idata.com
-i2iserv.com
-iadsdk.apple.com
-ichi-ni-san.net
-igp06.gameloft.com
-im-apps.net
-im.gmo.ov.yahoo.co.jp
-im.ov.yahoo.co.jp
-im.seesaa.ov.yahoo.co.jp
-image.d-064.com
-img.bbchat.tv
-img.mobee2.jp
-imgcdn01.formulas.jp
-in.treasuredata.com
-ingameads.gameloft.com
-ingameads2.gameloft.com
-ingamesads.gameloft.com
-ingest.crittercism.com
-inmobi-jp.com
-inmobi.com
-inmobisdk-a.akamaihd.net
-innovate-blog.info
-interstitial.fyber.com
-iogous.com
-iwanttodeliver.com
-j-a-net.jp
-j.gmodmp.jp
-j.image-ad.jp
-j.somewrite.jp
-j.zucks.net.zimg.jp
-j.zucks.net.zimg.jp.cdngc.net
-japanmetrix.jp
-jroqvbvw.info
-js.impact.ne.jp
-js.isboost.co.jp
-js.mediams.mb.softbank.jp
-js.monetize-ssp.com
-js.next-channel.com
-js.passaro-de-fogo.biz
-js.wizeraz.net
-jsccnn.com
-jscdndel.com
-jsecoin.com
-juicyads.com
-jyhfuqoh.info
-kau.li
-kdowqlpt.info
-ketchapp.org
-kiosked.com
-kochava.com
-koukoku.red
-krxd.net
-ktai.pw
-ladsp.com
-lead-ad.jp
-leadin.com
-leaffi.jp
-link-a.net
-linkshare.com
-linkshare.ne.jp
-listat.biz
-livead.jp
-liveads.jp
-livelog.biz
-lmodr.biz
-loading-delivery2.com
-log000.goo.ne.jp
-logly.co.jp
-lp.vasta.co.jp
-lululemonoutlets5online.info
-m-arata.com
-m.adsmatic.com
-ma-i2i.jp
-maad.maru.jp
-maist.jp
-mataharirama.xyz
-match.adsrvr.org
-mathtag.com
-mb-click.jp
-mdn2015x1.com
-mdpl-jp.com
-measure.ameblo.jp
-med.heyzap.com
-medi-8.net
-media-api.maio.jp
-media-b.jp
-media-rep.com
-media.fc2.com
-media.gssp.asia
-mediad.co.jp
-mediad2.jp
-mediaforge.com
-mediaid.click
-mediaweaver.jp
-medibaad.com
-metrics.mzstatic.com
-mgid.com
-microad.jp
-microad.net
-minemytraffic.com
-miner.pr0gramm.com
-minero-proxy-01.now.sh
-minero-proxy-02.now.sh
-minero-proxy-03.now.sh
-minero.pw
-misawa-antenna.link
-moatads.com
-mobylog.jp
-momoemoe.com
-moopoemoe.com
-monbran.net
-monerominer.rocks
-moras.jp
-mreco0.jp
-msg.simeji.baidu.jp
-mtburn.com
-mttag.com
-mucu.jp
-mycdn2.co
-n259adserv.com
-nend.net
-newrelic.com
-newzia.jp
-nex8.net
-nfdntqlqrgwc.com
-niconicoav.com
-nr-data.net
-nukiero.club
-oclaserver.com
-oct-pass.net
-octopuspop.com
-odnlj.snap-affairs.com
-omks.valuecommerce.com
-omotenashi.cygames.jp
-omt.shinobi.jp
-onclickads.net
-onclicktop.com
-onclkds.com
-online-dn.com
-open8.com
-open8video.blob.core.windows.net
-openx.net
-opr.formulas.jp
-orangemovie.link
-ot.ca-mpr.jp
-otaimg.com
-otapict.com
-outbrain.com
-overlay.top
-owldata.com
-p.rfihub.com
-pagead-googlehosted.l.google.com
-patiland.co
-permalink-system.com
-petametrics.com
-pixel.wp.com
-polymorphicads.jp
-popads.net
-api.popin.cc
-porno-tv.com
-poweredbyliquidfire.mobi
-ppgcm.profilepassport.jp
-ppoi.org
-preaf.jp
-primead.jp
-projectpoi.com
-proparm.jp
-prscripts.com
-ptengine.com
-ptengine.jp
-puhtml.com
-puserving.com
-push7.jp
-qe8dc4gw.com
-quant.jp
-quantcast.com
-quantserve.com
-r.edge.inmobicdn.com
-r.profilepassport.jp
-rayjump.com
-rcm.shinobi.jp
-rdp.pro.ne.jp
-reasedoper.pw
-red.hatena.ne.jp
-red.st-hatena.com
-red3.hatena.ne.jp
-redge-a.akamaihd.net
-reon.club
-reporo.net
-ressp.net
-revsci.net
-rihzsedipaqq.com
-rinad.jp
-rocks.io
-rokushiki.nefficient.jp
-rossoad.com
-rss-loader.com
-rtb.appintop.com
-rubiconproject.com
-s.pagoda56.com
-s0.2mdn.net
-s1.yicha.jp
-s3.mobile.val.jp
-san-ni-ichi.com
-sbs-ad.com
-schemouth.com
-sda.seesaa.jp
-searchteria.co.jp
-seedapp-creative.s3.amazonaws.com
-serve.richmediaads.com
-servedby.openxmarket.jp
-serving-sys.com
-sharethrough.com
-shisuh.com
-showads.pubmatic.com
-simplereach.com
-skimresources.com
-smaad.jp
-smac-ssp.com
-smart-ad.sakura.ne.jp
-smart-c.jp
-smartaccess.biz
-smartad-analytics.info
-smartads.mobile.yahoo.co.jp
-smartcanvas.net
-smartnews-ads.com
-socdm.com
-soma.smaato.net
-someapp.me
-soraad.jp
-sp-click2.jp
-sp.eroido.jp
-spacenine.biz
-spdeapp.com
-speead.jp
-speee-ad.akamaized.net
-spot-01.atas.io
-sprout-ad.com
-ssl-google-analytics.l.google.com
-sspintrafmsmt.com
-st.shinobi.jp
-stab.thench.net
-static.zucks.net.zimg.jp
-stats.unity3d.com
-stats.wordpress.com
-stats.wp.com
-statsp.fpop.net
-stimg.iand2ch.net
-stimg.thench.net
-stimgc.iand2ch.net
-stimgc.thench.net
-sumapo.org
-swcs.jp
-syaseigangan.club
-sync-tapi.admatrix.jp
-sync.shinobi.jp
-taboola.com
-tacoda.net
-tapjoyads.com
-tapone.jp
-taponejs-184e.kxcdn.com
-taxel.jp
-tcs-asp.net
-teads.tv
-techstats.net
-tm.r-ad.ne.jp
-tm2.r-ad.ne.jp
-trace.690.co
-tracer.jp
-track.appsflyer.com
-track.richmediaads.com
-track.somewrite.jp
-track.tenjin.io
-tracker.mca-analytics.com
-trackfeed.com
-trackword.net
-tradedoubler.com
-trafficfactory.biz
-trafficgate.net
-traffichaus.com
-trafficjunky.net
-trafficstars.com
-trans-ad.jp
-trax-ad.jp
-turn.com
-umeng.com
-uncn.jp
-unitedblades.co.jp
-unitedblades.jp
-unityads.unity3d.com
-unthem.com
-user.in.net
-userdive.com
-v-wrd.com
-v2st.shinobi.jp
-vebadu.com
-vizury.com
-vungle.com
-webmasterjs.com
-webmine.cz
-webpush-cdn.mobify.net
-webtracker.jp
-webtrackerplus.com
-webtrendslive.com
-widget.iid-networkf.jp
-ww6z7lrg3a.top
-wwwpromoter.com
-x-lift.jp
-x3.shinobi.jp
-x8.sarashi.com
-x9.shinobi.jp
-xbasfbno.info
-xlisting.jp
-xlivedoor.com
-xseed-digital.jp
-xxlargepop.com
-yads.yahoo.co.jp
-yeas.yahoo.co.jp
-zbtqpkimkjcr.com
-zedo.com
-zemanta.com
-ziyu.net
-zmnqoymznwng.com
-zucks.net
-automoc.net
-mmaaxx.com
-ads.newsdigest.jp
-counter.monkeybanana2.com
-adsymptotic.com
-mxvp-ad-config-prod-1.zenmxapps.com
-mxvp-feature-toggle-prod-1.zenmxapps.com
-tracking-server-prod-1.zenmxapps.com
-pussl48.com
-s7.addthis.com
-sirokad.net
-umeng.co
-js.8-starssp.net
-bid.adpicker.net
-cdn.adpicker.net
-mmoframes.com
-cdn.bigmining.com
-deqwas-dsp.net
-deqwas.net
-cma.jword.jp
-aa.agkn.com
-d.agkn.com
-js.agkn.com
-www.agkn.com
-loadmill.com
-livelyoffers.club
-PopCash.com
-ads.altema.jp
-pascal5.science
-potedly.co
-hitcpm.com
-zenback.jp
-ad.886644.com
-adexchangeguru.com
-ylx-1.com
-tk.mobri.jp
-bannerbridge.net
-velocecdn.com
-counter.monkeybanana3.com
-ana2.tatsumi-sys.jp
-code.analysis.shinobi.jp
-analyzer.fc2.com
-analyzer2.fc2.com
-analyzer5.fc2.com
-analyzer51.fc2.com
-analyzer52.fc2.com
-analyzer53.fc2.com
-drkness.net
-imrworldwide.com
-ppc-direct.com
-asumi.shinobi.jp
-chikayo-dsp.shinobi.jp
-adc.shinobi.jp
-gad.shinobi.jp
-app-install-world.com
-moradu.com
-adw.addlv.smt.docomo.ne.jp
-s.pubmine.com
-s-adserver.cxad.cxense.com
-adservice.google.co.jp
-web.stati.bid
-preaf-ad.jp
-fam.dsdemo.jp
-applovin.com
-www3.smartadserver.com
-fem-staffservice.ssl-lolipop.jp
-public.fam-8.com
-cdn2.googlestatisticalserver.com
-rec1.smt.docomo.ne.jp
-adv.ad-splash.jp
-h.parrable.com
-cdn.lodeo.io
-ad.a-ads.com
-tags.h12-media.com
-ad.tokyo-tube-ad.com
-st.bebi.com
-go.bebi.com
-tsyndicate.com
-aoredi.com
-applvn.com
-onclickmega.com
-wa-track.com
-appier.net
-k77hof1z7k.com
-asset.adserver.vrizead.com
-iaflstore.jp
-js.gumgum.com
-g2.gumgum.com
-inter1ads.com
-adult.likevideo.jp
-api.repro.io
-t.appsflyer.com
-register.appsflyer.com
-attr.appsflyer.com
-bnserving.com
-video.unrulymedia.com
-manga.boy.jp
-next-channel.xyz
-banner.cybershop-affiliate.jp
-pfx.sma-clsystem.info
-effectivemeasure.net
-ad-nex.com
-d.image-ad.jp
-wearelovelive.com
-82b9d6273154e7cbf.com
-deloton.com
-mobpushup.com
-go.onclasrv.com
-go.mobisla.com
-trends.revcontent.com
-cobalten.com
-safe.urgent--alert.com
-play.entretenimientolz.com
-adferns.go2affise.com
-bannerfarm.aolp.jp
-advbanners.global.ssl.fastly.net
-my-softbank-jp.com 
-mysoftbank-jp.com 
-nttdocomo-service.com
-www.rakuten-contect-japan-servicc.com
-services-rakutencard.com
-cdn.adsafeprotected.com
-adztec.com
-googleadapis.l.google.com
-resultplus.jp
-ad.jognote.com
-fod-cm-ad-v.webcdn.stream.ne.jp
-js.ad-trive.jp
-n-ad.work
-ad.adpon.jp
-srv1.aaacompany.net
-gum.xbooks.to
-delivery.adrecover.com
-popcash.net
-candy-network.com
-img-space.net
-lamp-shade.net
-liverail.com
-wisteria-js.excite.co.jp
-d1z2jf7jlzjs58.cloudfront.net
-imp.asahi.com
-advtrack.yicha.jp
-xa.shinobi.jp
-js.mulan.cloud
-xn--zuzy24d.co
-multiquicks.net
-ad.unispire.jp
-gstaticadssl.l.google.com
-analysiswebtool.com
-web-analysis.click
-js.bypass-sys.com
-mov-c.appli-info.com
-crosspartners.net
-code.orange-jelly.net
-static.ad-lancers.jp
-js.orca-pass.net
-count.orca-pass.net
-js-sec.indexww.com
-img.macromill.com
-whos.amung.us
-crosspromo.voodoo.io
-cdn.tynt.com
-ams900.goo.ne.jp
-nakanohito.jp
-rtb.nativeads.com
-get.mobu.jp
-ads-tr.bigmining.com
-sdk.ad.smaato.net
-adserver.cxad.cxense.com
-adprovider.maru.jp
-wt.adctrl.com
-ap-notify.bidagent.xad.com
-clicks.rtad.io
-f9uri.mymobilelead.com
-brucelead.com
-dt.adsafeprotected.com
-appollo-plus.com
-pixon.ads-pixiv.net
-bcloudhost.com
-ads280dummy2.com
-adaptv.advertising.com
-adtech.advertising.com
-nexage.advertising.com
-ads.stickyadstv.com
-dsp.adfarm1.adition.com
-adotmob.com
-cdn.neppa-ad.com
-fullrss.net
-rss.rssad.jp
-ads.mediams.mb.softbank.jp
-ad.abema.io
-reargooduches.pro
-pixel.parsely.com
-static.parsely.com
-solty.biz
-insight.adsrvr.org
-vidcpm.com
-evertherenous.info
-boudja.com
-ads.exdynsrv.com
-t.net-ap19.stream
-2016monclerselltokyo.net
-2017supremetokyo.com
-2017bootsjapan.com
-abc-adidas.com
-adidassneakersjapann.com
-aldantownwatch.com
-affordjabc.top
-acuio.org
-aquatas.com
-australiabootssalejp.com
-bag-hermes.com
-bagkakaku.com
-bagsyo.com
-bagshop78.com
-bellaveiskincare.com
-bestcopys.com
-birkin30.com
-boots1000.com
-brandcopy2016.com
-brandedcorner.com
-brandheya.com
-brandparis6.com
-breeree.com
-burandsale.com
-buyma.site
-buytowe.com
-bvlgarijapan.com
-c-web.biz
-camstaterep.com
-caycecole.com
-celine-japan.com
-chez-lai.com
-chibauni.com
-ciltbakimiveguzellik.com
-clinexcel.com
-coach-japan.com
-coatnihon.com
-coolkaba.com
-ctibrc.org
-cynergyper4mers.com
-deborahcoelho.com
-dgauda.com
-dinermuseum.com
-diogene99.com
-darknagar.ru
-dokei777.com
-dragontechs.com
-edu-huayu.com
-enlvs.com
-eurocentrichandbags.com
-evelynswonderland.com
-flagshipband.com
-flighttocapetown.com
-genuinelouisvuitton.com
-gardeningst.men
-gobuy678.com
-grvspn.com
-guccimenjpsale.com
-gutebaby.com
-grangehillsurgery.co.uk
-hermesmax.com
-hamalibg.biz
-hostalelcandil.com
-hicopys.net
-i-you-i.com
-icoolauto.com
-ilvjp.com
-iphoneswitch.com
-j5sf.com
-japanshopstyle.com
-jennus.com
-jfashop.net
-jilliancamwell.com
-jjkopi.com
-jleagueshop.com
-jonpoor.com
-jleagueuniform.com
-jpbands2020.com
-kakabrands.org
-kankokukopi.com
-kikuku.net
-komostyle.com
-kokokujp.top
-kushyma.com
-lafondabr.com
-likekopi.com
-lkjy.net
-longchampukhandbags.com
-louis-360.com
-laptopscreen.jp
-louisale.store
-moncler.onlineshop.jp.net
-lux-gokujo.com
-lv-guccl88.com
-lvbagonsale.com
-lveif.com
-lvk7.com
-lvnkad.com
-lvreig.net
-m1700.com
-maikiki.com
-mamairma.info
-man-live.ru
-methuenrestaurantweek.com
-mikopi.com
-mjjbag78.com
-mobydickgozo.com
-momocak.com
-man-live.co
-monclerdown2014.com
-mortchiropractic.com
-msaletoo.com
-mvpnba.com
-mybgbgclojp.com
-newyorksportsworld.com
-nrelievedbrand.com
-nutrired.org
-officehelptogo.com
-ok-outlet.com
-oneminuteplayfestival.org
-northlandtimeshares.com
-onyxalliance.org
-osakadepo.com
-nmejrb.com
-outtogetme.com
-ozkaltd.com
-palazzogrimani.org
-peppertreefrosty.com
-pickgolfup.com
-pszsri.com
-pumashopjapan.com
-positiveedgetutoring.co.uk
-rakkuten.space
-renewingfaces.com
-repurikakamire.com
-robertsguide.com
-rodrigoeberienos.com
-rushmyrepair.com
-saifudesigner.com
-sakuraboxs.com
-sale8899.com
-sales-bicyclewebstore.top
-shoeswars.com
-shop-sis.com
-sakuraset.top
-smetn.com
-sneakerheadclub.com
-sneakersjapanu.com
-snicases.com
-speeddtc.com
-sportscatchup.com
-sportseve.com
-steadypaddling.com
-storecor.net
-styleja.com
-stylesfashionstore.com
-teddyni.com
-top-kopi.net
-toryburchoutlet.info
-uggbootsjapan.net
-unifomushop.com
-uniform-fc.com
-urbntouch.com
-vanlai.com
-vuitton-love.com
-variedshops.men
-vuittonfans.com
-vuittonu.com
-watch9.com
-yahhooo.net
-youthrenewphyto.com
-ysloutletbags.com
-yuibo.com
-ad.ddo.jp
-localytics.com
-n.pc1ads.com
-ads.admarvel.com
-ads.servebom.com
-baseballkathyy.ml
-xmax.jp
-lpdk.net
-osiete-k.com
-feed.mobeek.net
-l.betrad.com
-c.betrad.com
-cf.xad.com
-click.speee-ad.jp
-spotx.tv
-spotxchange-a.akamaihd.net
-stats.atrl.co
-cdn.connectad.io
-i.connectad.io
-vi-serve.com
-intertakekuhy.info
-ads.yahoo.com
-cf04.kanade-ad.net
-asia.creativecdn.com
-sin.creativecdn.com
-pixel.tapad.com
-sync.aralego.com
-eb2.3lift.com
-logv2.r-oo.jp
-trj.valuecommerce.com
-img.aread.site
-nornelis.pw
-analytics.grupogodo.com
-anonymousdemographics.com
-bidgear.com
-i.popincdn.com
-js.batis.vip
-x-storage-a1.cir.io
-2lwlh385os.com
-ca.clcknads.pro
-aphookkensidah.pro
-spot-01.trackingpro.pro
-srv.bebi.com
-s3.buysellads.com
-adxxx.me
-fingahvf.top
-6ped2nd3yp.com
-smopy.com
-adtrue.com
-d2swpuhpwp3khd.cloudfront.net
-nxcount.com
-crwdcntrl.net
-mahimeta.com
-aniview.com
-run-syndicate.com
-bdv.bidvertiser.com
-pushance.com
-tharbadir.com
-go.oclasrv.com
-js.winc-ad.com
-fam-8.net
-    shExpMatch(host,"") ||
-    shExpMatch(host,"") ||
+   shExpMatch(host,"googleadservices.com") ||
+   shExpMatch(host,"pagead2.googlesyndication.com") ||
+   shExpMatch(host,"exosrv.com") ||
+   shExpMatch(host,"omtrdc.net") ||
+   shExpMatch(host,"coremetrics.com") ||
+   shExpMatch(host,"100651.advision-adnw.jp") ||
+   shExpMatch(host,"2.chmato.me") ||
+   shExpMatch(host,"2mdn.info") ||
+   shExpMatch(host,"4clvr.jp") ||
+   shExpMatch(host,"a-c-engine.com") ||
+   shExpMatch(host,"a-cast.jp") ||
+   shExpMatch(host,"a.cookpad-ads.com") ||
+   shExpMatch(host,"a1.goo.ne.jp") ||
+   shExpMatch(host,"aaaf.jp") ||
+   shExpMatch(host,"aaddcount.com") ||
+   shExpMatch(host,"aag.yahooapis.jp") ||
+   shExpMatch(host,"accessup.goldcows.com") ||
+   shExpMatch(host,"act.ameba.jp") ||
+   shExpMatch(host,"ad-alp.net") ||
+   shExpMatch(host,"ad-analyze.jp") ||
+   shExpMatch(host,"ad-api-v01.uliza.jp") ||
+   shExpMatch(host,"ad-arata.com") ||
+   shExpMatch(host,"ad-arata.s3.amazonaws.com") ||
+   shExpMatch(host,"ad-bemti.com") ||
+   shExpMatch(host,"ad-brix.com") ||
+   shExpMatch(host,"ad-cloud.jp") ||
+   shExpMatch(host,"ad-count.jp") ||
+   shExpMatch(host,"ad-feed.com") ||
+   shExpMatch(host,"ad-hatena.com") ||
+   shExpMatch(host,"ad-house.mobi") ||
+   shExpMatch(host,"ad-image.val.jp") ||
+   shExpMatch(host,"ad-info.val.jp") ||
+   shExpMatch(host,"ad-link.jp") ||
+   shExpMatch(host,"ad-lista.com") ||
+   shExpMatch(host,"ad-m.asia") ||
+   shExpMatch(host,"ad-miner.com") ||
+   shExpMatch(host,"ad-move.jp") ||
+   shExpMatch(host,"ad-seek.jp") ||
+   shExpMatch(host,"ad-shot.com") ||
+   shExpMatch(host,"ad-sp.biz") ||
+   shExpMatch(host,"ad-srv.co") ||
+   shExpMatch(host,"ad-stir.com") ||
+   shExpMatch(host,"ad-trip.com") ||
+   shExpMatch(host,"ad-v.jp") ||
+   shExpMatch(host,"ad-vanx.com") ||
+   shExpMatch(host,"ad.adsrvr.org") ||
+   shExpMatch(host,"ad.affipa.ne.jp") ||
+   shExpMatch(host,"ad.agilemedia.jp") ||
+   shExpMatch(host,"ad.angel-live.com") ||
+   shExpMatch(host,"ad.api.fello.net") ||
+   shExpMatch(host,"ad.atdmt.com") ||
+   shExpMatch(host,"ad.auditude.com") ||
+   shExpMatch(host,"ad.axyzconductor.jp") ||
+   shExpMatch(host,"ad.brainer.jp") ||
+   shExpMatch(host,"ad.cq-andc.jp") ||
+   shExpMatch(host,"ad.dlbooks.to") ||
+   shExpMatch(host,"ad.dmm.com") ||
+   shExpMatch(host,"ad.douga-kan.com") ||
+   shExpMatch(host,"ad.dropbooks.tv") ||
+   shExpMatch(host,"ad.duga.jp") ||
+   shExpMatch(host,"ad.goo.ne.jp") ||
+   shExpMatch(host,"ad.goodad.jp") ||
+   shExpMatch(host,"ad.gunosy.com") ||
+   shExpMatch(host,"ad.hatena.ne.jp") ||
+   shExpMatch(host,"ad.heypo.com") ||
+   shExpMatch(host,"ad.impressbm.co.jp") ||
+   shExpMatch(host,"ad.internetcom.jp") ||
+   shExpMatch(host,"ad.jorudan.co.jp") ||
+   shExpMatch(host,"ad.jp.ap.valuecommerce.com") ||
+   shExpMatch(host,"ad.mediba.jp") ||
+   shExpMatch(host,"ad.mobadme.jp") ||
+   shExpMatch(host,"ad.netowl.jp") ||
+   shExpMatch(host,"ad.pitta.ne.jp") ||
+   shExpMatch(host,"ad.plus-a.net") ||
+   shExpMatch(host,"ad.response.jp") ||
+   shExpMatch(host,"ad.somewrite.jp") ||
+   shExpMatch(host,"ad.sp.mbga.jp") ||
+   shExpMatch(host,"ad.val.jp") ||
+   shExpMatch(host,"ad.valuecommerce.com") ||
+   shExpMatch(host,"ad.webdice.jp") ||
+   shExpMatch(host,"ad.wiredvision.jp") ||
+   shExpMatch(host,"ad.xdomain.ne.jp") ||
+   shExpMatch(host,"ad2.fm-p.jp") ||
+   shExpMatch(host,"ad2.maho.jp") ||
+   shExpMatch(host,"adap.tv") ||
+   shExpMatch(host,"adapf.com") ||
+   shExpMatch(host,"adapi.gunosy.com") ||
+   shExpMatch(host,"adb.nikkei.co.jp") ||
+   shExpMatch(host,"adcdn.goo.ne.jp") ||
+   shExpMatch(host,"adck.crooz.jp") ||
+   shExpMatch(host,"adcloud.jp") ||
+   shExpMatch(host,"adclr.jp") ||
+   shExpMatch(host,"adcolony.com") ||
+   shExpMatch(host,"adcrops.net") ||
+   shExpMatch(host,"adcv.jp") ||
+   shExpMatch(host,"addelivery.seedapp.jp") ||
+   shExpMatch(host,"addeluxe.jp") ||
+   shExpMatch(host,"adf.shinobi.jp") ||
+   shExpMatch(host,"adflare.bz") ||
+   shExpMatch(host,"adflare.jp") ||
+   shExpMatch(host,"adforest.net") ||
+   shExpMatch(host,"adfurikun.jp") ||
+   shExpMatch(host,"adglare.net") ||
+   shExpMatch(host,"adgrip.net") ||
+   shExpMatch(host,"adimg.net") ||
+   shExpMatch(host,"adimp.excite.co.jp") ||
+   shExpMatch(host,"adingo.jp") ||
+   shExpMatch(host,"adingo.jp.eimg.jp") ||
+   shExpMatch(host,"adinte.jp") ||
+   shExpMatch(host,"adjust-net.jp") ||
+   shExpMatch(host,"adjust-sp.jp") ||
+   shExpMatch(host,"adk2x.com") ||
+   shExpMatch(host,"adlantis.jp") ||
+   shExpMatch(host,"adlib.cptv.jp ") ||
+   shExpMatch(host,"adlpo.com") ||
+   shExpMatch(host,"adm.fwmrm.net") ||
+   shExpMatch(host,"adm.shinobi.jp") ||
+   shExpMatch(host,"admeme.net") ||
+   shExpMatch(host,"adminer.com") ||
+   shExpMatch(host,"adming.net") ||
+   shExpMatch(host,"admtpmp123.com") ||
+   shExpMatch(host,"admtpmp124.com") ||
+   shExpMatch(host,"adnetworkperformance.com") ||
+   shExpMatch(host,"adnico.jp") ||
+   shExpMatch(host,"adntokyo.gunosy.com") ||
+   shExpMatch(host,"adnwif.smt.docomo.ne.jp") ||
+   shExpMatch(host,"adnxs.com") ||
+   shExpMatch(host,"adone.yicha.jp") ||
+   shExpMatch(host,"adpdx.com") ||
+   shExpMatch(host,"adpix.jp") ||
+   shExpMatch(host,"adplan-ds.com") ||
+   shExpMatch(host,"adplatform.jp") ||
+   shExpMatch(host,"adpon.net") ||
+   shExpMatch(host,"adpresso.valuecommerce.com") ||
+   shExpMatch(host,"adpriv.nikkei.com") ||
+   shExpMatch(host,"adrcf.com") ||
+   shExpMatch(host,"adresult-sp.jp") ||
+   shExpMatch(host,"adresult.jp") ||
+   shExpMatch(host,"adroll.com") ||
+   shExpMatch(host,"ads-api.hackadoll.com") ||
+   shExpMatch(host,"ads-i2i.jp") ||
+   shExpMatch(host,"ads-tool.jp") ||
+   shExpMatch(host,"ads-twitter.com") ||
+   shExpMatch(host,"ads.doko.jp") ||
+   shExpMatch(host,"ads.gold") ||
+   shExpMatch(host,"ads.heyzap.com") ||
+   shExpMatch(host,"ads.mediasmart.es") ||
+   shExpMatch(host,"ads.mixi.jp") ||
+   shExpMatch(host,"ads.mopub.com") ||
+   shExpMatch(host,"ads.nexage.com") ||
+   shExpMatch(host,"ads.nikkeibp.co.jp") ||
+   shExpMatch(host,"ads.pubmatic.com") ||
+   shExpMatch(host,"ads1.jp.msn.com") ||
+   shExpMatch(host,"ads1.msads.net") ||
+   shExpMatch(host,"ads2-adnow.com") ||
+   shExpMatch(host,"ads280dummy.com") ||
+   shExpMatch(host,"adsee.jp") ||
+   shExpMatch(host,"adsensecustomsearchads.com") ||
+   shExpMatch(host,"adservice.google.com") ||
+   shExpMatch(host,"adsk2.co") ||
+   shExpMatch(host,"adsnative.com") ||
+   shExpMatch(host,"adstore.jp") ||
+   shExpMatch(host,"adtc.daum.net") ||
+   shExpMatch(host,"adtdp.com") ||
+   shExpMatch(host,"adtech.de") ||
+   shExpMatch(host,"adtechjp.com") ||
+   shExpMatch(host,"adticker.net") ||
+   shExpMatch(host,"adtilt.com") ||
+   shExpMatch(host,"adtrack.king.com") ||
+   shExpMatch(host,"adtracker.jp") ||
+   shExpMatch(host,"adultmild.com") ||
+   shExpMatch(host,"adultsuns.net") ||
+   shExpMatch(host,"adv.mobsmart.net") ||
+   shExpMatch(host,"advertising.com") ||
+   shExpMatch(host,"advertising.jp.msn.com") ||
+   shExpMatch(host,"advisionclick.yicha.jp") ||
+   shExpMatch(host,"advisionweb.yicha.jp") ||
+   shExpMatch(host,"advisionwebp.yicha.jp") ||
+   shExpMatch(host,"advnet.xyz") ||
+   shExpMatch(host,"advpic.yicha.jp") ||
+   shExpMatch(host,"adxpansion.com") ||
+   shExpMatch(host,"adxxx.org") ||
+   shExpMatch(host,"adzerk.net") ||
+   shExpMatch(host,"af-110.com") ||
+   shExpMatch(host,"af.moshimo.com") ||
+   shExpMatch(host,"aff.jskyservices.com") ||
+   shExpMatch(host,"affil.jp") ||
+   shExpMatch(host,"affiliate.dtiserv.com") ||
+   shExpMatch(host,"affiliate.rakuten.co.jp") ||
+   shExpMatch(host,"affiliateone.jp") ||
+   shExpMatch(host,"afte.mopo.jp") ||
+   shExpMatch(host,"aid-ad.jp") ||
+   shExpMatch(host,"aimg.fc2.com") ||
+   shExpMatch(host,"aja-recommend.com") ||
+   shExpMatch(host,"aka-uae-dl.uliza.jp") ||
+   shExpMatch(host,"alogs.umengcloud.com") ||
+   shExpMatch(host,"aml.valuecommerce.com") ||
+   shExpMatch(host,"amoad.com") ||
+   shExpMatch(host,"analytics.cocolog-nifty.com") ||
+   shExpMatch(host,"analytics.qlook.net") ||
+   shExpMatch(host,"analyzer54.fc2.com") ||
+   shExpMatch(host,"analyzer55.fc2.com") ||
+   shExpMatch(host,"android.giveapp.jp") ||
+   shExpMatch(host,"antennash.com") ||
+   shExpMatch(host,"aos-creative.prf.hn") ||
+   shExpMatch(host,"api-05.com") ||
+   shExpMatch(host,"api.appsflyer.com") ||
+   shExpMatch(host,"api.cho-ro.club") ||
+   shExpMatch(host,"api.gameanalytics.com") ||
+   shExpMatch(host,"api.inwemo.com") ||
+   shExpMatch(host,"api.primecaster.net") ||
+   shExpMatch(host,"api.uca.cloud.unity3d.com") ||
+   shExpMatch(host,"api.webpush.jp") ||
+   shExpMatch(host,"aplkp.valuecommerce.com") ||
+   shExpMatch(host,"app-c.net") ||
+   shExpMatch(host,"app-measurement.com") ||
+   shExpMatch(host,"app.adjust.com") ||
+   shExpMatch(host,"appad.click") ||
+   shExpMatch(host,"appad02.mbsp.jp") ||
+   shExpMatch(host,"appier.mobi") ||
+   shExpMatch(host,"applipromotion.com") ||
+   shExpMatch(host,"appnext-a.akamaihd.net") ||
+   shExpMatch(host,"appnext.com") ||
+   shExpMatch(host,"appnext.hs.llnwd.net") ||
+   shExpMatch(host,"appsdt.com") ||
+   shExpMatch(host,"apserver.net") ||
+   shExpMatch(host,"apvdr.com") ||
+   shExpMatch(host,"aqua.dmm.co.jp") ||
+   shExpMatch(host,"ard.gree.net") ||
+   shExpMatch(host,"aspm.jp") ||
+   shExpMatch(host,"assys01.fc2.com") ||
+   shExpMatch(host,"astrsk.net") ||
+   shExpMatch(host,"atech.ne.jp") ||
+   shExpMatch(host,"atwola.com") ||
+   shExpMatch(host,"authedmine.com") ||
+   shExpMatch(host,"avalon-ad.net") ||
+   shExpMatch(host,"avdm.mobi") ||
+   shExpMatch(host,"axia-hakusan.com") ||
+   shExpMatch(host,"azvjudwr.info") ||
+   shExpMatch(host,"b.grvcdn.com") ||
+   shExpMatch(host,"b.smartnews.be") ||
+   shExpMatch(host,"b92.yahoo.co.jp") ||
+   shExpMatch(host,"b97.yahoo.co.jp") ||
+   shExpMatch(host,"ba.afl.rakuten.co.jp") ||
+   shExpMatch(host,"banner.blogranking.net") ||
+   shExpMatch(host,"bc.geocities.yahoo.co.jp") ||
+   shExpMatch(host,"bc-geocities.yahoo.co.jp") ||
+   shExpMatch(host,"bc.atleit.com") ||
+   shExpMatch(host,"bead-ad.com") ||
+   shExpMatch(host,"bibincom.com") ||
+   shExpMatch(host,"bidswitch.net") ||
+   shExpMatch(host,"bizad.nikkeibp.co.jp") ||
+   shExpMatch(host,"black-diamond.asia") ||
+   shExpMatch(host,"blog-livedorr.com") ||
+   shExpMatch(host,"blog.alivedoors.com") ||
+   shExpMatch(host,"blogranking.fc2.com") ||
+   shExpMatch(host,"blogroll.click") ||
+   shExpMatch(host,"blogroll.livedoor.net") ||
+   shExpMatch(host,"bluekai.com") ||
+   shExpMatch(host,"bongacams.com") ||
+   shExpMatch(host,"bootstrapcdn.jdorfman.netdna-cdn.com") ||
+   shExpMatch(host,"boxadstop.com") ||
+   shExpMatch(host,"brandscreen.biz") ||
+   shExpMatch(host,"broadstreetads.com") ||
+   shExpMatch(host,"btstatic.com") ||
+   shExpMatch(host,"bufferapp.com") ||
+   shExpMatch(host,"bvezznurwekr.com") ||
+   shExpMatch(host,"bypass.jp") ||
+   shExpMatch(host,"c1exchange.com") ||
+   shExpMatch(host,"ca-conv.jp") ||
+   shExpMatch(host,"caprofitx.adtop.com") ||
+   shExpMatch(host,"caprofitx.com") ||
+   shExpMatch(host,"cdn-guile.akamaized.net") ||
+   shExpMatch(host,"cdn.ad1-click.com") ||
+   shExpMatch(host,"cdn.alistcloud.com") ||
+   shExpMatch(host,"cdn.cloudcoins.co") ||
+   shExpMatch(host,"cdn.pic.crooz.jp") ||
+   shExpMatch(host,"cdn.taboolasyndication.com") ||
+   shExpMatch(host,"cdn.treasuredata.com") ||
+   shExpMatch(host,"cdn.z-profit.com") ||
+   shExpMatch(host,"cdns.lodeo.io") ||
+   shExpMatch(host,"cint.com") ||
+   shExpMatch(host,"click-plus.net") ||
+   shExpMatch(host,"click.adv.livedoor.com") ||
+   shExpMatch(host,"click.duga.jp") ||
+   shExpMatch(host,"clickadu.com") ||
+   shExpMatch(host,"clksite.com") ||
+   shExpMatch(host,"cloudmobi.net") ||
+   shExpMatch(host,"cnhv.co") ||
+   shExpMatch(host,"cnt.affiliate.fc2.com") ||
+   shExpMatch(host,"cocoad.jp") ||
+   shExpMatch(host,"coin-have.com") ||
+   shExpMatch(host,"coin-hive.com") ||
+   shExpMatch(host,"coinblind.com") ||
+   shExpMatch(host,"coinerra.com") ||
+   shExpMatch(host,"coinhive.com") ||
+   shExpMatch(host,"coinhiveproxy.com") ||
+   shExpMatch(host,"coinlab.biz") ||
+   shExpMatch(host,"coinnebula.com") ||
+   shExpMatch(host,"comic-promotion.com") ||
+   shExpMatch(host,"cosmi.io") ||
+   shExpMatch(host,"count-ad.net") ||
+   shExpMatch(host,"counter.yadro.ru") ||
+   shExpMatch(host,"cpmly.com") ||
+   shExpMatch(host,"crashlytics.com") ||
+   shExpMatch(host,"creativecarrer.com") ||
+   shExpMatch(host,"crispadvertising.com") ||
+   shExpMatch(host,"criteo.com") ||
+   shExpMatch(host,"criteo.net") ||
+   shExpMatch(host,"crypto-loot.com") ||
+   shExpMatch(host,"cs.r-ad.ne.jp") ||
+   shExpMatch(host,"csi.gstatic.com") ||
+   shExpMatch(host,"ct2.shinobi.jp") ||
+   shExpMatch(host,"cube.jpn.com") ||
+   shExpMatch(host,"cyberwing.co.jp") ||
+   shExpMatch(host,"d.5.to") ||
+   shExpMatch(host,"d.pixiv.org") ||
+   shExpMatch(host,"d.somewrite.jp") ||
+   shExpMatch(host,"d1miuq6afqay8u.cloudfront.net") ||
+   shExpMatch(host,"d28nwox1gdjlve.cloudfront.net") ||
+   shExpMatch(host,"d2c.ne.jp") ||
+   shExpMatch(host,"deliver.ads2.iid.jp") ||
+   shExpMatch(host,"delivery.locari.jp") ||
+   shExpMatch(host,"directlink.jp") ||
+   shExpMatch(host,"directrev.com") ||
+   shExpMatch(host,"disqusads.com") ||
+   shExpMatch(host,"dlp4luwpus5kr.cloudfront.net") ||
+   shExpMatch(host,"dlv.itmedia.jp") ||
+   shExpMatch(host,"doga.cm") ||
+   shExpMatch(host,"dominoad.com") ||
+   shExpMatch(host,"doprads.jp") ||
+   shExpMatch(host,"dot-metrix.com") ||
+   shExpMatch(host,"doubleclick.com") ||
+   shExpMatch(host,"doubleclick.net") ||
+   shExpMatch(host,"dtscout.com") ||
+   shExpMatch(host,"dynalyst.jp") ||
+   shExpMatch(host,"eco-tag.jp") ||
+   shExpMatch(host,"emailretargeting.com") ||
+   shExpMatch(host,"emp.aiasahi.jp") ||
+   shExpMatch(host,"ero-advertising.com") ||
+   shExpMatch(host,"etc.atja.jp") ||
+   shExpMatch(host,"events.appsflyer.com") ||
+   shExpMatch(host,"exaf.jp") ||
+   shExpMatch(host,"exit-ad.com") ||
+   shExpMatch(host,"exoclick.com") ||
+   shExpMatch(host,"eyeota.net") ||
+   shExpMatch(host,"fam-ad.com") ||
+   shExpMatch(host,"fam-movie.com") ||
+   shExpMatch(host,"fancrew.jp") ||
+   shExpMatch(host,"feed.mikle.com") ||
+   shExpMatch(host,"fine-tv.net") ||
+   shExpMatch(host,"fivecdm.com") ||
+   shExpMatch(host,"fluct.jp") ||
+   shExpMatch(host,"flurry.com") ||
+   shExpMatch(host,"focas.jp") ||
+   shExpMatch(host,"for-ward.jp") ||
+   shExpMatch(host,"fout.jp") ||
+   shExpMatch(host,"fractionalmedia.com") ||
+   shExpMatch(host,"free-video-movie.com") ||
+   shExpMatch(host,"free2.jp") ||
+   shExpMatch(host,"fsitel.com") ||
+   shExpMatch(host,"gamefeat.net") ||
+   shExpMatch(host,"garss.tv") ||
+   shExpMatch(host,"gds786bomyc.com") ||
+   shExpMatch(host,"geniee.jp") ||
+   shExpMatch(host,"genieedmp.com") ||
+   shExpMatch(host,"genieesspv.jp") ||
+   shExpMatch(host,"gigazine.asia") ||
+   shExpMatch(host,"glam.com") ||
+   shExpMatch(host,"global.msmtrakk06d.com") ||
+   shExpMatch(host,"glossom.co.jp") ||
+   shExpMatch(host,"glossom.jp") ||
+   shExpMatch(host,"glssp.jp") ||
+   shExpMatch(host,"glssp.net") ||
+   shExpMatch(host,"gmossp-sp.jp") ||
+   shExpMatch(host,"go.ad1data.com") ||
+   shExpMatch(host,"go.megabanners.cf") ||
+   shExpMatch(host,"goodlifess.jp") ||
+   shExpMatch(host,"gravity.com") ||
+   shExpMatch(host,"gsspat.jp") ||
+   shExpMatch(host,"gsspcln.jp") ||
+   shExpMatch(host,"gssprt.jp") ||
+   shExpMatch(host,"guile.jp") ||
+   shExpMatch(host,"hihumi.biz") ||
+   shExpMatch(host,"hilltopads.net") ||
+   shExpMatch(host,"histats.com") ||
+   shExpMatch(host,"hitgraph.jp") ||
+   shExpMatch(host,"housead.xofapp.xyz") ||
+   shExpMatch(host,"href.asia") ||
+   shExpMatch(host,"i-generation.jp") ||
+   shExpMatch(host,"i-mobile.co.jp") ||
+   shExpMatch(host,"i.atleit.com") ||
+   shExpMatch(host,"i.image-ad.jp") ||
+   shExpMatch(host,"i.tapit.com") ||
+   shExpMatch(host,"i2ad.jp") ||
+   shExpMatch(host,"i2i.com") ||
+   shExpMatch(host,"i2i.jp") ||
+   shExpMatch(host,"i2idata.com") ||
+   shExpMatch(host,"i2iserv.com") ||
+   shExpMatch(host,"iadsdk.apple.com") ||
+   shExpMatch(host,"ichi-ni-san.net") ||
+   shExpMatch(host,"igp06.gameloft.com") ||
+   shExpMatch(host,"im-apps.net") ||
+   shExpMatch(host,"im.gmo.ov.yahoo.co.jp") ||
+   shExpMatch(host,"im.ov.yahoo.co.jp") ||
+   shExpMatch(host,"im.seesaa.ov.yahoo.co.jp") ||
+   shExpMatch(host,"image.d-064.com") ||
+   shExpMatch(host,"img.bbchat.tv") ||
+   shExpMatch(host,"img.mobee2.jp") ||
+   shExpMatch(host,"imgcdn01.formulas.jp") ||
+   shExpMatch(host,"in.treasuredata.com") ||
+   shExpMatch(host,"ingameads.gameloft.com") ||
+   shExpMatch(host,"ingameads2.gameloft.com") ||
+   shExpMatch(host,"ingamesads.gameloft.com") ||
+   shExpMatch(host,"ingest.crittercism.com") ||
+   shExpMatch(host,"inmobi-jp.com") ||
+   shExpMatch(host,"inmobi.com") ||
+   shExpMatch(host,"inmobisdk-a.akamaihd.net") ||
+   shExpMatch(host,"innovate-blog.info") ||
+   shExpMatch(host,"interstitial.fyber.com") ||
+   shExpMatch(host,"iogous.com") ||
+   shExpMatch(host,"iwanttodeliver.com") ||
+   shExpMatch(host,"j-a-net.jp") ||
+   shExpMatch(host,"j.gmodmp.jp") ||
+   shExpMatch(host,"j.image-ad.jp") ||
+   shExpMatch(host,"j.somewrite.jp") ||
+   shExpMatch(host,"j.zucks.net.zimg.jp") ||
+   shExpMatch(host,"j.zucks.net.zimg.jp.cdngc.net") ||
+   shExpMatch(host,"japanmetrix.jp") ||
+   shExpMatch(host,"jroqvbvw.info") ||
+   shExpMatch(host,"js.impact.ne.jp") ||
+   shExpMatch(host,"js.isboost.co.jp") ||
+   shExpMatch(host,"js.mediams.mb.softbank.jp") ||
+   shExpMatch(host,"js.monetize-ssp.com") ||
+   shExpMatch(host,"js.next-channel.com") ||
+   shExpMatch(host,"js.passaro-de-fogo.biz") ||
+   shExpMatch(host,"js.wizeraz.net") ||
+   shExpMatch(host,"jsccnn.com") ||
+   shExpMatch(host,"jscdndel.com") ||
+   shExpMatch(host,"jsecoin.com") ||
+   shExpMatch(host,"juicyads.com") ||
+   shExpMatch(host,"jyhfuqoh.info") ||
+   shExpMatch(host,"kau.li") ||
+   shExpMatch(host,"kdowqlpt.info") ||
+   shExpMatch(host,"ketchapp.org") ||
+   shExpMatch(host,"kiosked.com") ||
+   shExpMatch(host,"kochava.com") ||
+   shExpMatch(host,"koukoku.red") ||
+   shExpMatch(host,"krxd.net") ||
+   shExpMatch(host,"ktai.pw") ||
+   shExpMatch(host,"ladsp.com") ||
+   shExpMatch(host,"lead-ad.jp") ||
+   shExpMatch(host,"leadin.com") ||
+   shExpMatch(host,"leaffi.jp") ||
+   shExpMatch(host,"link-a.net") ||
+   shExpMatch(host,"linkshare.com") ||
+   shExpMatch(host,"linkshare.ne.jp") ||
+   shExpMatch(host,"listat.biz") ||
+   shExpMatch(host,"livead.jp") ||
+   shExpMatch(host,"liveads.jp") ||
+   shExpMatch(host,"livelog.biz") ||
+   shExpMatch(host,"lmodr.biz") ||
+   shExpMatch(host,"loading-delivery2.com") ||
+   shExpMatch(host,"log000.goo.ne.jp") ||
+   shExpMatch(host,"logly.co.jp") ||
+   shExpMatch(host,"lp.vasta.co.jp") ||
+   shExpMatch(host,"lululemonoutlets5online.info") ||
+   shExpMatch(host,"m-arata.com") ||
+   shExpMatch(host,"m.adsmatic.com") ||
+   shExpMatch(host,"ma-i2i.jp") ||
+   shExpMatch(host,"maad.maru.jp") ||
+   shExpMatch(host,"maist.jp") ||
+   shExpMatch(host,"mataharirama.xyz") ||
+   shExpMatch(host,"match.adsrvr.org") ||
+   shExpMatch(host,"mathtag.com") ||
+   shExpMatch(host,"mb-click.jp") ||
+   shExpMatch(host,"mdn2015x1.com") ||
+   shExpMatch(host,"mdpl-jp.com") ||
+   shExpMatch(host,"measure.ameblo.jp") ||
+   shExpMatch(host,"med.heyzap.com") ||
+   shExpMatch(host,"medi-8.net") ||
+   shExpMatch(host,"media-api.maio.jp") ||
+   shExpMatch(host,"media-b.jp") ||
+   shExpMatch(host,"media-rep.com") ||
+   shExpMatch(host,"media.fc2.com") ||
+   shExpMatch(host,"media.gssp.asia") ||
+   shExpMatch(host,"mediad.co.jp") ||
+   shExpMatch(host,"mediad2.jp") ||
+   shExpMatch(host,"mediaforge.com") ||
+   shExpMatch(host,"mediaid.click") ||
+   shExpMatch(host,"mediaweaver.jp") ||
+   shExpMatch(host,"medibaad.com") ||
+   shExpMatch(host,"metrics.mzstatic.com") ||
+   shExpMatch(host,"mgid.com") ||
+   shExpMatch(host,"microad.jp") ||
+   shExpMatch(host,"microad.net") ||
+   shExpMatch(host,"minemytraffic.com") ||
+   shExpMatch(host,"miner.pr0gramm.com") ||
+   shExpMatch(host,"minero-proxy-01.now.sh") ||
+   shExpMatch(host,"minero-proxy-02.now.sh") ||
+   shExpMatch(host,"minero-proxy-03.now.sh") ||
+   shExpMatch(host,"minero.pw") ||
+   shExpMatch(host,"misawa-antenna.link") ||
+   shExpMatch(host,"moatads.com") ||
+   shExpMatch(host,"mobylog.jp") ||
+   shExpMatch(host,"momoemoe.com") ||
+   shExpMatch(host,"moopoemoe.com") ||
+   shExpMatch(host,"monbran.net") ||
+   shExpMatch(host,"monerominer.rocks") ||
+   shExpMatch(host,"moras.jp") ||
+   shExpMatch(host,"mreco0.jp") ||
+   shExpMatch(host,"msg.simeji.baidu.jp") ||
+   shExpMatch(host,"mtburn.com") ||
+   shExpMatch(host,"mttag.com") ||
+   shExpMatch(host,"mucu.jp") ||
+   shExpMatch(host,"mycdn2.co") ||
+   shExpMatch(host,"n259adserv.com") ||
+   shExpMatch(host,"nend.net") ||
+   shExpMatch(host,"newrelic.com") ||
+   shExpMatch(host,"newzia.jp") ||
+   shExpMatch(host,"nex8.net") ||
+   shExpMatch(host,"nfdntqlqrgwc.com") ||
+   shExpMatch(host,"niconicoav.com") ||
+   shExpMatch(host,"nr-data.net") ||
+   shExpMatch(host,"nukiero.club") ||
+   shExpMatch(host,"oclaserver.com") ||
+   shExpMatch(host,"oct-pass.net") ||
+   shExpMatch(host,"octopuspop.com") ||
+   shExpMatch(host,"odnlj.snap-affairs.com") ||
+   shExpMatch(host,"omks.valuecommerce.com") ||
+   shExpMatch(host,"omotenashi.cygames.jp") ||
+   shExpMatch(host,"omt.shinobi.jp") ||
+   shExpMatch(host,"onclickads.net") ||
+   shExpMatch(host,"onclicktop.com") ||
+   shExpMatch(host,"onclkds.com") ||
+   shExpMatch(host,"online-dn.com") ||
+   shExpMatch(host,"open8.com") ||
+   shExpMatch(host,"open8video.blob.core.windows.net") ||
+   shExpMatch(host,"openx.net") ||
+   shExpMatch(host,"opr.formulas.jp") ||
+   shExpMatch(host,"orangemovie.link") ||
+   shExpMatch(host,"ot.ca-mpr.jp") ||
+   shExpMatch(host,"otaimg.com") ||
+   shExpMatch(host,"otapict.com") ||
+   shExpMatch(host,"outbrain.com") ||
+   shExpMatch(host,"overlay.top") ||
+   shExpMatch(host,"owldata.com") ||
+   shExpMatch(host,"p.rfihub.com") ||
+   shExpMatch(host,"pagead-googlehosted.l.google.com") ||
+   shExpMatch(host,"patiland.co") ||
+   shExpMatch(host,"permalink-system.com") ||
+   shExpMatch(host,"petametrics.com") ||
+   shExpMatch(host,"pixel.wp.com") ||
+   shExpMatch(host,"polymorphicads.jp") ||
+   shExpMatch(host,"popads.net") ||
+   shExpMatch(host,"api.popin.cc") ||
+   shExpMatch(host,"porno-tv.com") ||
+   shExpMatch(host,"poweredbyliquidfire.mobi") ||
+   shExpMatch(host,"ppgcm.profilepassport.jp") ||
+   shExpMatch(host,"ppoi.org") ||
+   shExpMatch(host,"preaf.jp") ||
+   shExpMatch(host,"primead.jp") ||
+   shExpMatch(host,"projectpoi.com") ||
+   shExpMatch(host,"proparm.jp") ||
+   shExpMatch(host,"prscripts.com") ||
+   shExpMatch(host,"ptengine.com") ||
+   shExpMatch(host,"ptengine.jp") ||
+   shExpMatch(host,"puhtml.com") ||
+   shExpMatch(host,"puserving.com") ||
+   shExpMatch(host,"push7.jp") ||
+   shExpMatch(host,"qe8dc4gw.com") ||
+   shExpMatch(host,"quant.jp") ||
+   shExpMatch(host,"quantcast.com") ||
+   shExpMatch(host,"quantserve.com") ||
+   shExpMatch(host,"r.edge.inmobicdn.com") ||
+   shExpMatch(host,"r.profilepassport.jp") ||
+   shExpMatch(host,"rayjump.com") ||
+   shExpMatch(host,"rcm.shinobi.jp") ||
+   shExpMatch(host,"rdp.pro.ne.jp") ||
+   shExpMatch(host,"reasedoper.pw") ||
+   shExpMatch(host,"red.hatena.ne.jp") ||
+   shExpMatch(host,"red.st-hatena.com") ||
+   shExpMatch(host,"red3.hatena.ne.jp") ||
+   shExpMatch(host,"redge-a.akamaihd.net") ||
+   shExpMatch(host,"reon.club") ||
+   shExpMatch(host,"reporo.net") ||
+   shExpMatch(host,"ressp.net") ||
+   shExpMatch(host,"revsci.net") ||
+   shExpMatch(host,"rihzsedipaqq.com") ||
+   shExpMatch(host,"rinad.jp") ||
+   shExpMatch(host,"rocks.io") ||
+   shExpMatch(host,"rokushiki.nefficient.jp") ||
+   shExpMatch(host,"rossoad.com") ||
+   shExpMatch(host,"rss-loader.com") ||
+   shExpMatch(host,"rtb.appintop.com") ||
+   shExpMatch(host,"rubiconproject.com") ||
+   shExpMatch(host,"s.pagoda56.com") ||
+   shExpMatch(host,"s0.2mdn.net") ||
+   shExpMatch(host,"s1.yicha.jp") ||
+   shExpMatch(host,"s3.mobile.val.jp") ||
+   shExpMatch(host,"san-ni-ichi.com") ||
+   shExpMatch(host,"sbs-ad.com") ||
+   shExpMatch(host,"schemouth.com") ||
+   shExpMatch(host,"sda.seesaa.jp") ||
+   shExpMatch(host,"searchteria.co.jp") ||
+   shExpMatch(host,"seedapp-creative.s3.amazonaws.com") ||
+   shExpMatch(host,"serve.richmediaads.com") ||
+   shExpMatch(host,"servedby.openxmarket.jp") ||
+   shExpMatch(host,"serving-sys.com") ||
+   shExpMatch(host,"sharethrough.com") ||
+   shExpMatch(host,"shisuh.com") ||
+   shExpMatch(host,"showads.pubmatic.com") ||
+   shExpMatch(host,"simplereach.com") ||
+   shExpMatch(host,"skimresources.com") ||
+   shExpMatch(host,"smaad.jp") ||
+   shExpMatch(host,"smac-ssp.com") ||
+   shExpMatch(host,"smart-ad.sakura.ne.jp") ||
+   shExpMatch(host,"smart-c.jp") ||
+   shExpMatch(host,"smartaccess.biz") ||
+   shExpMatch(host,"smartad-analytics.info") ||
+   shExpMatch(host,"smartads.mobile.yahoo.co.jp") ||
+   shExpMatch(host,"smartcanvas.net") ||
+   shExpMatch(host,"smartnews-ads.com") ||
+   shExpMatch(host,"socdm.com") ||
+   shExpMatch(host,"soma.smaato.net") ||
+   shExpMatch(host,"someapp.me") ||
+   shExpMatch(host,"soraad.jp") ||
+   shExpMatch(host,"sp-click2.jp") ||
+   shExpMatch(host,"sp.eroido.jp") ||
+   shExpMatch(host,"spacenine.biz") ||
+   shExpMatch(host,"spdeapp.com") ||
+   shExpMatch(host,"speead.jp") ||
+   shExpMatch(host,"speee-ad.akamaized.net") ||
+   shExpMatch(host,"spot-01.atas.io") ||
+   shExpMatch(host,"sprout-ad.com") ||
+   shExpMatch(host,"ssl-google-analytics.l.google.com") ||
+   shExpMatch(host,"sspintrafmsmt.com") ||
+   shExpMatch(host,"st.shinobi.jp") ||
+   shExpMatch(host,"stab.thench.net") ||
+   shExpMatch(host,"static.zucks.net.zimg.jp") ||
+   shExpMatch(host,"stats.unity3d.com") ||
+   shExpMatch(host,"stats.wordpress.com") ||
+   shExpMatch(host,"stats.wp.com") ||
+   shExpMatch(host,"statsp.fpop.net") ||
+   shExpMatch(host,"stimg.iand2ch.net") ||
+   shExpMatch(host,"stimg.thench.net") ||
+   shExpMatch(host,"stimgc.iand2ch.net") ||
+   shExpMatch(host,"stimgc.thench.net") ||
+   shExpMatch(host,"sumapo.org") ||
+   shExpMatch(host,"swcs.jp") ||
+   shExpMatch(host,"syaseigangan.club") ||
+   shExpMatch(host,"sync-tapi.admatrix.jp") ||
+   shExpMatch(host,"sync.shinobi.jp") ||
+   shExpMatch(host,"taboola.com") ||
+   shExpMatch(host,"tacoda.net") ||
+   shExpMatch(host,"tapjoyads.com") ||
+   shExpMatch(host,"tapone.jp") ||
+   shExpMatch(host,"taponejs-184e.kxcdn.com") ||
+   shExpMatch(host,"taxel.jp") ||
+   shExpMatch(host,"tcs-asp.net") ||
+   shExpMatch(host,"teads.tv") ||
+   shExpMatch(host,"techstats.net") ||
+   shExpMatch(host,"tm.r-ad.ne.jp") ||
+   shExpMatch(host,"tm2.r-ad.ne.jp") ||
+   shExpMatch(host,"trace.690.co") ||
+   shExpMatch(host,"tracer.jp") ||
+   shExpMatch(host,"track.appsflyer.com") ||
+   shExpMatch(host,"track.richmediaads.com") ||
+   shExpMatch(host,"track.somewrite.jp") ||
+   shExpMatch(host,"track.tenjin.io") ||
+   shExpMatch(host,"tracker.mca-analytics.com") ||
+   shExpMatch(host,"trackfeed.com") ||
+   shExpMatch(host,"trackword.net") ||
+   shExpMatch(host,"tradedoubler.com") ||
+   shExpMatch(host,"trafficfactory.biz") ||
+   shExpMatch(host,"trafficgate.net") ||
+   shExpMatch(host,"traffichaus.com") ||
+   shExpMatch(host,"trafficjunky.net") ||
+   shExpMatch(host,"trafficstars.com") ||
+   shExpMatch(host,"trans-ad.jp") ||
+   shExpMatch(host,"trax-ad.jp") ||
+   shExpMatch(host,"turn.com") ||
+   shExpMatch(host,"umeng.com") ||
+   shExpMatch(host,"uncn.jp") ||
+   shExpMatch(host,"unitedblades.co.jp") ||
+   shExpMatch(host,"unitedblades.jp") ||
+   shExpMatch(host,"unityads.unity3d.com") ||
+   shExpMatch(host,"unthem.com") ||
+   shExpMatch(host,"user.in.net") ||
+   shExpMatch(host,"userdive.com") ||
+   shExpMatch(host,"v-wrd.com") ||
+   shExpMatch(host,"v2st.shinobi.jp") ||
+   shExpMatch(host,"vebadu.com") ||
+   shExpMatch(host,"vizury.com") ||
+   shExpMatch(host,"vungle.com") ||
+   shExpMatch(host,"webmasterjs.com") ||
+   shExpMatch(host,"webmine.cz") ||
+   shExpMatch(host,"webpush-cdn.mobify.net") ||
+   shExpMatch(host,"webtracker.jp") ||
+   shExpMatch(host,"webtrackerplus.com") ||
+   shExpMatch(host,"webtrendslive.com") ||
+   shExpMatch(host,"widget.iid-networkf.jp") ||
+   shExpMatch(host,"ww6z7lrg3a.top") ||
+   shExpMatch(host,"wwwpromoter.com") ||
+   shExpMatch(host,"x-lift.jp") ||
+   shExpMatch(host,"x3.shinobi.jp") ||
+   shExpMatch(host,"x8.sarashi.com") ||
+   shExpMatch(host,"x9.shinobi.jp") ||
+   shExpMatch(host,"xbasfbno.info") ||
+   shExpMatch(host,"xlisting.jp") ||
+   shExpMatch(host,"xlivedoor.com") ||
+   shExpMatch(host,"xseed-digital.jp") ||
+   shExpMatch(host,"xxlargepop.com") ||
+   shExpMatch(host,"yads.yahoo.co.jp") ||
+   shExpMatch(host,"yeas.yahoo.co.jp") ||
+   shExpMatch(host,"zbtqpkimkjcr.com") ||
+   shExpMatch(host,"zedo.com") ||
+   shExpMatch(host,"zemanta.com") ||
+   shExpMatch(host,"ziyu.net") ||
+   shExpMatch(host,"zmnqoymznwng.com") ||
+   shExpMatch(host,"zucks.net") ||
+   shExpMatch(host,"automoc.net") ||
+   shExpMatch(host,"mmaaxx.com") ||
+   shExpMatch(host,"ads.newsdigest.jp") ||
+   shExpMatch(host,"counter.monkeybanana2.com") ||
+   shExpMatch(host,"adsymptotic.com") ||
+   shExpMatch(host,"mxvp-ad-config-prod-1.zenmxapps.com") ||
+   shExpMatch(host,"mxvp-feature-toggle-prod-1.zenmxapps.com") ||
+   shExpMatch(host,"tracking-server-prod-1.zenmxapps.com") ||
+   shExpMatch(host,"pussl48.com") ||
+   shExpMatch(host,"s7.addthis.com") ||
+   shExpMatch(host,"sirokad.net") ||
+   shExpMatch(host,"umeng.co") ||
+   shExpMatch(host,"js.8-starssp.net") ||
+   shExpMatch(host,"bid.adpicker.net") ||
+   shExpMatch(host,"cdn.adpicker.net") ||
+   shExpMatch(host,"mmoframes.com") ||
+   shExpMatch(host,"cdn.bigmining.com") ||
+   shExpMatch(host,"deqwas-dsp.net") ||
+   shExpMatch(host,"deqwas.net") ||
+   shExpMatch(host,"cma.jword.jp") ||
+   shExpMatch(host,"aa.agkn.com") ||
+   shExpMatch(host,"d.agkn.com") ||
+   shExpMatch(host,"js.agkn.com") ||
+   shExpMatch(host,"www.agkn.com") ||
+   shExpMatch(host,"loadmill.com") ||
+   shExpMatch(host,"livelyoffers.club") ||
+   shExpMatch(host,"PopCash.com") ||
+   shExpMatch(host,"ads.altema.jp") ||
+   shExpMatch(host,"pascal5.science") ||
+   shExpMatch(host,"potedly.co") ||
+   shExpMatch(host,"hitcpm.com") ||
+   shExpMatch(host,"zenback.jp") ||
+   shExpMatch(host,"ad.886644.com") ||
+   shExpMatch(host,"adexchangeguru.com") ||
+   shExpMatch(host,"ylx-1.com") ||
+   shExpMatch(host,"tk.mobri.jp") ||
+   shExpMatch(host,"bannerbridge.net") ||
+   shExpMatch(host,"velocecdn.com") ||
+   shExpMatch(host,"counter.monkeybanana3.com") ||
+   shExpMatch(host,"ana2.tatsumi-sys.jp") ||
+   shExpMatch(host,"code.analysis.shinobi.jp") ||
+   shExpMatch(host,"analyzer.fc2.com") ||
+   shExpMatch(host,"analyzer2.fc2.com") ||
+   shExpMatch(host,"analyzer5.fc2.com") ||
+   shExpMatch(host,"analyzer51.fc2.com") ||
+   shExpMatch(host,"analyzer52.fc2.com") ||
+   shExpMatch(host,"analyzer53.fc2.com") ||
+   shExpMatch(host,"drkness.net") ||
+   shExpMatch(host,"imrworldwide.com") ||
+   shExpMatch(host,"ppc-direct.com") ||
+   shExpMatch(host,"asumi.shinobi.jp") ||
+   shExpMatch(host,"chikayo-dsp.shinobi.jp") ||
+   shExpMatch(host,"adc.shinobi.jp") ||
+   shExpMatch(host,"gad.shinobi.jp") ||
+   shExpMatch(host,"app-install-world.com") ||
+   shExpMatch(host,"moradu.com") ||
+   shExpMatch(host,"adw.addlv.smt.docomo.ne.jp") ||
+   shExpMatch(host,"s.pubmine.com") ||
+   shExpMatch(host,"s-adserver.cxad.cxense.com") ||
+   shExpMatch(host,"adservice.google.co.jp") ||
+   shExpMatch(host,"web.stati.bid") ||
+   shExpMatch(host,"preaf-ad.jp") ||
+   shExpMatch(host,"fam.dsdemo.jp") ||
+   shExpMatch(host,"applovin.com") ||
+   shExpMatch(host,"www3.smartadserver.com") ||
+   shExpMatch(host,"fem-staffservice.ssl-lolipop.jp") ||
+   shExpMatch(host,"public.fam-8.com") ||
+   shExpMatch(host,"cdn2.googlestatisticalserver.com") ||
+   shExpMatch(host,"rec1.smt.docomo.ne.jp") ||
+   shExpMatch(host,"adv.ad-splash.jp") ||
+   shExpMatch(host,"h.parrable.com") ||
+   shExpMatch(host,"cdn.lodeo.io") ||
+   shExpMatch(host,"ad.a-ads.com") ||
+   shExpMatch(host,"tags.h12-media.com") ||
+   shExpMatch(host,"ad.tokyo-tube-ad.com") ||
+   shExpMatch(host,"st.bebi.com") ||
+   shExpMatch(host,"go.bebi.com") ||
+   shExpMatch(host,"tsyndicate.com") ||
+   shExpMatch(host,"aoredi.com") ||
+   shExpMatch(host,"applvn.com") ||
+   shExpMatch(host,"onclickmega.com") ||
+   shExpMatch(host,"wa-track.com") ||
+   shExpMatch(host,"appier.net") ||
+   shExpMatch(host,"k77hof1z7k.com") ||
+   shExpMatch(host,"asset.adserver.vrizead.com") ||
+   shExpMatch(host,"iaflstore.jp") ||
+   shExpMatch(host,"js.gumgum.com") ||
+   shExpMatch(host,"g2.gumgum.com") ||
+   shExpMatch(host,"inter1ads.com") ||
+   shExpMatch(host,"adult.likevideo.jp") ||
+   shExpMatch(host,"api.repro.io") ||
+   shExpMatch(host,"t.appsflyer.com") ||
+   shExpMatch(host,"register.appsflyer.com") ||
+   shExpMatch(host,"attr.appsflyer.com") ||
+   shExpMatch(host,"bnserving.com") ||
+   shExpMatch(host,"video.unrulymedia.com") ||
+   shExpMatch(host,"manga.boy.jp") ||
+   shExpMatch(host,"next-channel.xyz") ||
+   shExpMatch(host,"banner.cybershop-affiliate.jp") ||
+   shExpMatch(host,"pfx.sma-clsystem.info") ||
+   shExpMatch(host,"effectivemeasure.net") ||
+   shExpMatch(host,"ad-nex.com") ||
+   shExpMatch(host,"d.image-ad.jp") ||
+   shExpMatch(host,"wearelovelive.com") ||
+   shExpMatch(host,"82b9d6273154e7cbf.com") ||
+   shExpMatch(host,"deloton.com") ||
+   shExpMatch(host,"mobpushup.com") ||
+   shExpMatch(host,"go.onclasrv.com") ||
+   shExpMatch(host,"go.mobisla.com") ||
+   shExpMatch(host,"trends.revcontent.com") ||
+   shExpMatch(host,"cobalten.com") ||
+   shExpMatch(host,"safe.urgent--alert.com") ||
+   shExpMatch(host,"play.entretenimientolz.com") ||
+   shExpMatch(host,"adferns.go2affise.com") ||
+   shExpMatch(host,"bannerfarm.aolp.jp") ||
+   shExpMatch(host,"advbanners.global.ssl.fastly.net") ||
+   shExpMatch(host,"my-softbank-jp.com ") ||
+   shExpMatch(host,"mysoftbank-jp.com ") ||
+   shExpMatch(host,"nttdocomo-service.com") ||
+   shExpMatch(host,"www.rakuten-contect-japan-servicc.com") ||
+   shExpMatch(host,"services-rakutencard.com") ||
+   shExpMatch(host,"cdn.adsafeprotected.com") ||
+   shExpMatch(host,"adztec.com") ||
+   shExpMatch(host,"googleadapis.l.google.com") ||
+   shExpMatch(host,"resultplus.jp") ||
+   shExpMatch(host,"ad.jognote.com") ||
+   shExpMatch(host,"fod-cm-ad-v.webcdn.stream.ne.jp") ||
+   shExpMatch(host,"js.ad-trive.jp") ||
+   shExpMatch(host,"n-ad.work") ||
+   shExpMatch(host,"ad.adpon.jp") ||
+   shExpMatch(host,"srv1.aaacompany.net") ||
+   shExpMatch(host,"gum.xbooks.to") ||
+   shExpMatch(host,"delivery.adrecover.com") ||
+   shExpMatch(host,"popcash.net") ||
+   shExpMatch(host,"candy-network.com") ||
+   shExpMatch(host,"img-space.net") ||
+   shExpMatch(host,"lamp-shade.net") ||
+   shExpMatch(host,"liverail.com") ||
+   shExpMatch(host,"wisteria-js.excite.co.jp") ||
+   shExpMatch(host,"d1z2jf7jlzjs58.cloudfront.net") ||
+   shExpMatch(host,"imp.asahi.com") ||
+   shExpMatch(host,"advtrack.yicha.jp") ||
+   shExpMatch(host,"xa.shinobi.jp") ||
+   shExpMatch(host,"js.mulan.cloud") ||
+   shExpMatch(host,"xn--zuzy24d.co") ||
+   shExpMatch(host,"multiquicks.net") ||
+   shExpMatch(host,"ad.unispire.jp") ||
+   shExpMatch(host,"gstaticadssl.l.google.com") ||
+   shExpMatch(host,"analysiswebtool.com") ||
+   shExpMatch(host,"web-analysis.click") ||
+   shExpMatch(host,"js.bypass-sys.com") ||
+   shExpMatch(host,"mov-c.appli-info.com") ||
+   shExpMatch(host,"crosspartners.net") ||
+   shExpMatch(host,"code.orange-jelly.net") ||
+   shExpMatch(host,"static.ad-lancers.jp") ||
+   shExpMatch(host,"js.orca-pass.net") ||
+   shExpMatch(host,"count.orca-pass.net") ||
+   shExpMatch(host,"js-sec.indexww.com") ||
+   shExpMatch(host,"img.macromill.com") ||
+   shExpMatch(host,"whos.amung.us") ||
+   shExpMatch(host,"crosspromo.voodoo.io") ||
+   shExpMatch(host,"cdn.tynt.com") ||
+   shExpMatch(host,"ams900.goo.ne.jp") ||
+   shExpMatch(host,"nakanohito.jp") ||
+   shExpMatch(host,"rtb.nativeads.com") ||
+   shExpMatch(host,"get.mobu.jp") ||
+   shExpMatch(host,"ads-tr.bigmining.com") ||
+   shExpMatch(host,"sdk.ad.smaato.net") ||
+   shExpMatch(host,"adserver.cxad.cxense.com") ||
+   shExpMatch(host,"adprovider.maru.jp") ||
+   shExpMatch(host,"wt.adctrl.com") ||
+   shExpMatch(host,"ap-notify.bidagent.xad.com") ||
+   shExpMatch(host,"clicks.rtad.io") ||
+   shExpMatch(host,"f9uri.mymobilelead.com") ||
+   shExpMatch(host,"brucelead.com") ||
+   shExpMatch(host,"dt.adsafeprotected.com") ||
+   shExpMatch(host,"appollo-plus.com") ||
+   shExpMatch(host,"pixon.ads-pixiv.net") ||
+   shExpMatch(host,"bcloudhost.com") ||
+   shExpMatch(host,"ads280dummy2.com") ||
+   shExpMatch(host,"adaptv.advertising.com") ||
+   shExpMatch(host,"adtech.advertising.com") ||
+   shExpMatch(host,"nexage.advertising.com") ||
+   shExpMatch(host,"ads.stickyadstv.com") ||
+   shExpMatch(host,"dsp.adfarm1.adition.com") ||
+   shExpMatch(host,"adotmob.com") ||
+   shExpMatch(host,"cdn.neppa-ad.com") ||
+   shExpMatch(host,"fullrss.net") ||
+   shExpMatch(host,"rss.rssad.jp") ||
+   shExpMatch(host,"ads.mediams.mb.softbank.jp") ||
+   shExpMatch(host,"ad.abema.io") ||
+   shExpMatch(host,"reargooduches.pro") ||
+   shExpMatch(host,"pixel.parsely.com") ||
+   shExpMatch(host,"static.parsely.com") ||
+   shExpMatch(host,"solty.biz") ||
+   shExpMatch(host,"insight.adsrvr.org") ||
+   shExpMatch(host,"vidcpm.com") ||
+   shExpMatch(host,"evertherenous.info") ||
+   shExpMatch(host,"boudja.com") ||
+   shExpMatch(host,"ads.exdynsrv.com") ||
+   shExpMatch(host,"t.net-ap19.stream") ||
+   shExpMatch(host,"2016monclerselltokyo.net") ||
+   shExpMatch(host,"2017supremetokyo.com") ||
+   shExpMatch(host,"2017bootsjapan.com") ||
+   shExpMatch(host,"abc-adidas.com") ||
+   shExpMatch(host,"adidassneakersjapann.com") ||
+   shExpMatch(host,"aldantownwatch.com") ||
+   shExpMatch(host,"affordjabc.top") ||
+   shExpMatch(host,"acuio.org") ||
+   shExpMatch(host,"aquatas.com") ||
+   shExpMatch(host,"australiabootssalejp.com") ||
+   shExpMatch(host,"bag-hermes.com") ||
+   shExpMatch(host,"bagkakaku.com") ||
+   shExpMatch(host,"bagsyo.com") ||
+   shExpMatch(host,"bagshop78.com") ||
+   shExpMatch(host,"bellaveiskincare.com") ||
+   shExpMatch(host,"bestcopys.com") ||
+   shExpMatch(host,"birkin30.com") ||
+   shExpMatch(host,"boots1000.com") ||
+   shExpMatch(host,"brandcopy2016.com") ||
+   shExpMatch(host,"brandedcorner.com") ||
+   shExpMatch(host,"brandheya.com") ||
+   shExpMatch(host,"brandparis6.com") ||
+   shExpMatch(host,"breeree.com") ||
+   shExpMatch(host,"burandsale.com") ||
+   shExpMatch(host,"buyma.site") ||
+   shExpMatch(host,"buytowe.com") ||
+   shExpMatch(host,"bvlgarijapan.com") ||
+   shExpMatch(host,"c-web.biz") ||
+   shExpMatch(host,"camstaterep.com") ||
+   shExpMatch(host,"caycecole.com") ||
+   shExpMatch(host,"celine-japan.com") ||
+   shExpMatch(host,"chez-lai.com") ||
+   shExpMatch(host,"chibauni.com") ||
+   shExpMatch(host,"ciltbakimiveguzellik.com") ||
+   shExpMatch(host,"clinexcel.com") ||
+   shExpMatch(host,"coach-japan.com") ||
+   shExpMatch(host,"coatnihon.com") ||
+   shExpMatch(host,"coolkaba.com") ||
+   shExpMatch(host,"ctibrc.org") ||
+   shExpMatch(host,"cynergyper4mers.com") ||
+   shExpMatch(host,"deborahcoelho.com") ||
+   shExpMatch(host,"dgauda.com") ||
+   shExpMatch(host,"dinermuseum.com") ||
+   shExpMatch(host,"diogene99.com") ||
+   shExpMatch(host,"darknagar.ru") ||
+   shExpMatch(host,"dokei777.com") ||
+   shExpMatch(host,"dragontechs.com") ||
+   shExpMatch(host,"edu-huayu.com") ||
+   shExpMatch(host,"enlvs.com") ||
+   shExpMatch(host,"eurocentrichandbags.com") ||
+   shExpMatch(host,"evelynswonderland.com") ||
+   shExpMatch(host,"flagshipband.com") ||
+   shExpMatch(host,"flighttocapetown.com") ||
+   shExpMatch(host,"genuinelouisvuitton.com") ||
+   shExpMatch(host,"gardeningst.men") ||
+   shExpMatch(host,"gobuy678.com") ||
+   shExpMatch(host,"grvspn.com") ||
+   shExpMatch(host,"guccimenjpsale.com") ||
+   shExpMatch(host,"gutebaby.com") ||
+   shExpMatch(host,"grangehillsurgery.co.uk") ||
+   shExpMatch(host,"hermesmax.com") ||
+   shExpMatch(host,"hamalibg.biz") ||
+   shExpMatch(host,"hostalelcandil.com") ||
+   shExpMatch(host,"hicopys.net") ||
+   shExpMatch(host,"i-you-i.com") ||
+   shExpMatch(host,"icoolauto.com") ||
+   shExpMatch(host,"ilvjp.com") ||
+   shExpMatch(host,"iphoneswitch.com") ||
+   shExpMatch(host,"j5sf.com") ||
+   shExpMatch(host,"japanshopstyle.com") ||
+   shExpMatch(host,"jennus.com") ||
+   shExpMatch(host,"jfashop.net") ||
+   shExpMatch(host,"jilliancamwell.com") ||
+   shExpMatch(host,"jjkopi.com") ||
+   shExpMatch(host,"jleagueshop.com") ||
+   shExpMatch(host,"jonpoor.com") ||
+   shExpMatch(host,"jleagueuniform.com") ||
+   shExpMatch(host,"jpbands2020.com") ||
+   shExpMatch(host,"kakabrands.org") ||
+   shExpMatch(host,"kankokukopi.com") ||
+   shExpMatch(host,"kikuku.net") ||
+   shExpMatch(host,"komostyle.com") ||
+   shExpMatch(host,"kokokujp.top") ||
+   shExpMatch(host,"kushyma.com") ||
+   shExpMatch(host,"lafondabr.com") ||
+   shExpMatch(host,"likekopi.com") ||
+   shExpMatch(host,"lkjy.net") ||
+   shExpMatch(host,"longchampukhandbags.com") ||
+   shExpMatch(host,"louis-360.com") ||
+   shExpMatch(host,"laptopscreen.jp") ||
+   shExpMatch(host,"louisale.store") ||
+   shExpMatch(host,"moncler.onlineshop.jp.net") ||
+   shExpMatch(host,"lux-gokujo.com") ||
+   shExpMatch(host,"lv-guccl88.com") ||
+   shExpMatch(host,"lvbagonsale.com") ||
+   shExpMatch(host,"lveif.com") ||
+   shExpMatch(host,"lvk7.com") ||
+   shExpMatch(host,"lvnkad.com") ||
+   shExpMatch(host,"lvreig.net") ||
+   shExpMatch(host,"m1700.com") ||
+   shExpMatch(host,"maikiki.com") ||
+   shExpMatch(host,"mamairma.info") ||
+   shExpMatch(host,"man-live.ru") ||
+   shExpMatch(host,"methuenrestaurantweek.com") ||
+   shExpMatch(host,"mikopi.com") ||
+   shExpMatch(host,"mjjbag78.com") ||
+   shExpMatch(host,"mobydickgozo.com") ||
+   shExpMatch(host,"momocak.com") ||
+   shExpMatch(host,"man-live.co") ||
+   shExpMatch(host,"monclerdown2014.com") ||
+   shExpMatch(host,"mortchiropractic.com") ||
+   shExpMatch(host,"msaletoo.com") ||
+   shExpMatch(host,"mvpnba.com") ||
+   shExpMatch(host,"mybgbgclojp.com") ||
+   shExpMatch(host,"newyorksportsworld.com") ||
+   shExpMatch(host,"nrelievedbrand.com") ||
+   shExpMatch(host,"nutrired.org") ||
+   shExpMatch(host,"officehelptogo.com") ||
+   shExpMatch(host,"ok-outlet.com") ||
+   shExpMatch(host,"oneminuteplayfestival.org") ||
+   shExpMatch(host,"northlandtimeshares.com") ||
+   shExpMatch(host,"onyxalliance.org") ||
+   shExpMatch(host,"osakadepo.com") ||
+   shExpMatch(host,"nmejrb.com") ||
+   shExpMatch(host,"outtogetme.com") ||
+   shExpMatch(host,"ozkaltd.com") ||
+   shExpMatch(host,"palazzogrimani.org") ||
+   shExpMatch(host,"peppertreefrosty.com") ||
+   shExpMatch(host,"pickgolfup.com") ||
+   shExpMatch(host,"pszsri.com") ||
+   shExpMatch(host,"pumashopjapan.com") ||
+   shExpMatch(host,"positiveedgetutoring.co.uk") ||
+   shExpMatch(host,"rakkuten.space") ||
+   shExpMatch(host,"renewingfaces.com") ||
+   shExpMatch(host,"repurikakamire.com") ||
+   shExpMatch(host,"robertsguide.com") ||
+   shExpMatch(host,"rodrigoeberienos.com") ||
+   shExpMatch(host,"rushmyrepair.com") ||
+   shExpMatch(host,"saifudesigner.com") ||
+   shExpMatch(host,"sakuraboxs.com") ||
+   shExpMatch(host,"sale8899.com") ||
+   shExpMatch(host,"sales-bicyclewebstore.top") ||
+   shExpMatch(host,"shoeswars.com") ||
+   shExpMatch(host,"shop-sis.com") ||
+   shExpMatch(host,"sakuraset.top") ||
+   shExpMatch(host,"smetn.com") ||
+   shExpMatch(host,"sneakerheadclub.com") ||
+   shExpMatch(host,"sneakersjapanu.com") ||
+   shExpMatch(host,"snicases.com") ||
+   shExpMatch(host,"speeddtc.com") ||
+   shExpMatch(host,"sportscatchup.com") ||
+   shExpMatch(host,"sportseve.com") ||
+   shExpMatch(host,"steadypaddling.com") ||
+   shExpMatch(host,"storecor.net") ||
+   shExpMatch(host,"styleja.com") ||
+   shExpMatch(host,"stylesfashionstore.com") ||
+   shExpMatch(host,"teddyni.com") ||
+   shExpMatch(host,"top-kopi.net") ||
+   shExpMatch(host,"toryburchoutlet.info") ||
+   shExpMatch(host,"uggbootsjapan.net") ||
+   shExpMatch(host,"unifomushop.com") ||
+   shExpMatch(host,"uniform-fc.com") ||
+   shExpMatch(host,"urbntouch.com") ||
+   shExpMatch(host,"vanlai.com") ||
+   shExpMatch(host,"vuitton-love.com") ||
+   shExpMatch(host,"variedshops.men") ||
+   shExpMatch(host,"vuittonfans.com") ||
+   shExpMatch(host,"vuittonu.com") ||
+   shExpMatch(host,"watch9.com") ||
+   shExpMatch(host,"yahhooo.net") ||
+   shExpMatch(host,"youthrenewphyto.com") ||
+   shExpMatch(host,"ysloutletbags.com") ||
+   shExpMatch(host,"yuibo.com") ||
+   shExpMatch(host,"ad.ddo.jp") ||
+   shExpMatch(host,"localytics.com") ||
+   shExpMatch(host,"n.pc1ads.com") ||
+   shExpMatch(host,"ads.admarvel.com") ||
+   shExpMatch(host,"ads.servebom.com") ||
+   shExpMatch(host,"baseballkathyy.ml") ||
+   shExpMatch(host,"xmax.jp") ||
+   shExpMatch(host,"lpdk.net") ||
+   shExpMatch(host,"osiete-k.com") ||
+   shExpMatch(host,"feed.mobeek.net") ||
+   shExpMatch(host,"l.betrad.com") ||
+   shExpMatch(host,"c.betrad.com") ||
+   shExpMatch(host,"cf.xad.com") ||
+   shExpMatch(host,"click.speee-ad.jp") ||
+   shExpMatch(host,"spotx.tv") ||
+   shExpMatch(host,"spotxchange-a.akamaihd.net") ||
+   shExpMatch(host,"stats.atrl.co") ||
+   shExpMatch(host,"cdn.connectad.io") ||
+   shExpMatch(host,"i.connectad.io") ||
+   shExpMatch(host,"vi-serve.com") ||
+   shExpMatch(host,"intertakekuhy.info") ||
+   shExpMatch(host,"ads.yahoo.com") ||
+   shExpMatch(host,"cf04.kanade-ad.net") ||
+   shExpMatch(host,"asia.creativecdn.com") ||
+   shExpMatch(host,"sin.creativecdn.com") ||
+   shExpMatch(host,"pixel.tapad.com") ||
+   shExpMatch(host,"sync.aralego.com") ||
+   shExpMatch(host,"eb2.3lift.com") ||
+   shExpMatch(host,"logv2.r-oo.jp") ||
+   shExpMatch(host,"trj.valuecommerce.com") ||
+   shExpMatch(host,"img.aread.site") ||
+   shExpMatch(host,"nornelis.pw") ||
+   shExpMatch(host,"analytics.grupogodo.com") ||
+   shExpMatch(host,"anonymousdemographics.com") ||
+   shExpMatch(host,"bidgear.com") ||
+   shExpMatch(host,"i.popincdn.com") ||
+   shExpMatch(host,"js.batis.vip") ||
+   shExpMatch(host,"x-storage-a1.cir.io") ||
+   shExpMatch(host,"2lwlh385os.com") ||
+   shExpMatch(host,"ca.clcknads.pro") ||
+   shExpMatch(host,"aphookkensidah.pro") ||
+   shExpMatch(host,"spot-01.trackingpro.pro") ||
+   shExpMatch(host,"srv.bebi.com") ||
+   shExpMatch(host,"s3.buysellads.com") ||
+   shExpMatch(host,"adxxx.me") ||
+   shExpMatch(host,"fingahvf.top") ||
+   shExpMatch(host,"6ped2nd3yp.com") ||
+   shExpMatch(host,"smopy.com") ||
+   shExpMatch(host,"adtrue.com") ||
+   shExpMatch(host,"d2swpuhpwp3khd.cloudfront.net") ||
+   shExpMatch(host,"nxcount.com") ||
+   shExpMatch(host,"crwdcntrl.net") ||
+   shExpMatch(host,"mahimeta.com") ||
+   shExpMatch(host,"aniview.com") ||
+   shExpMatch(host,"run-syndicate.com") ||
+   shExpMatch(host,"bdv.bidvertiser.com") ||
+   shExpMatch(host,"pushance.com") ||
+   shExpMatch(host,"tharbadir.com") ||
+   shExpMatch(host,"go.oclasrv.com") ||
+   shExpMatch(host,"js.winc-ad.com") ||
+   shExpMatch(host,"fam-8.net")
   ) return "PROXY 127.0.0.1:8080";
   return "DIRECT";
 }
