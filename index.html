@@ -48,6 +48,14 @@
         }
         res.innerHTML = tbl;
       });
+
+      var az = document.getElementById('az');
+      var ts = document.getElementById('ts');
+      var rs = document.getElementById('rs');
+      ts.addEventListener('click',function() {
+        var reg = new Regex(as.value + "[a-zA-Z0-9_-]*");
+        rs.match()
+      });
     });
   </script>
   <style>
@@ -82,5 +90,10 @@
   <div>
     <table id='res' border=1>
     </table>
+  </div>
+  <div>
+    <textarea id="az"></textarea>
+    <textarea id="rs"></textarea>
+    <button id="ts">trans</button>
   </div>
 </html>
